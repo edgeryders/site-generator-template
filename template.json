@@ -1,0 +1,71 @@
+{
+  "brand": {
+    "title": "NGI | Edgeryders",
+    "logoSrc": "/favicon.ico",
+    "imageSrc": "/logo.png",
+    "colorPrimary": "dark-blue",
+    "colorSecondary": "light-blue",
+    "colorHighlight": "white"
+  },
+  "sections": [
+  {
+    "type": "heroBanner",
+    "body": "What should the Internet - and all it encompasses, which means pretty much everything - really do for humanity? How should it work? How should it be governed?",
+    "settings": {
+      "image": "globe.png",
+      "gradient": {
+        "primary": "light-blue",
+        "secondary": "white"
+      },
+    },
+    "buttons": [
+      {
+        "title": "Latest events",
+        "url": "https://someurl"
+      }, {
+        "title": "Join the conversation",
+        "url": "https://otherurl"
+      }  
+    ],
+  }, 
+  {
+    "type": "descriptionTwoColumns",
+    "title": "Introduction",
+    "image": "networks.png",
+    "imagetext": "An Opte Project visualization of routing paths through a portion of the Internet...",
+    "subtitle": "While early internet pioneers dreamed of an internet that would be open, free and decentralised, the story of the internet today is mostly a story of loss of control.",
+    "body": "Many of us feel increasingly uneasy about these developments. We live in a world where new technologies happen to us; the average person has very little agency... ",
+  }, 
+  {
+    "type": "howTo",
+    "title": "How to participate",
+    "body": "My Cool Project is a quest to understand how we the people, who contribute towards building the evolution of the Internet and our digital technologies, actively build a better future against a backdrop of massive social, economic, ecological and political challenges.",
+    "steps": [
+      {
+        "index": 1,
+        "body": "<a href='https://someurl'>Sign up here</a> to join our exchange."
+      },
+      {
+        "index": 2,
+        "body": "Join a Virtual Cafe community call – an online video gathering to meet other community members! Calls are hosted in English."
+      }
+    ]
+  }, 
+  {
+    "type": "latestConversations",
+    "title": "Latest conversations",
+    "tag": "my-cool-project-conversations"
+  }, 
+  {
+    "type": "people",
+    "title": "Meet the organizers",
+    "tag": "my-cool-project-conversations"
+  }, 
+  {
+    "type": "projectFooter",
+    "title": "NGI Forward, part of the NGI Initiative",
+    "body": "The NGI Forward project and exchange platform are part of the Next Generation Internet (NGI) initiative, launched by the European Commission in the autumn of 2016.",
+    "image": "ngi.png"
+  }, 
+  ]
+}
